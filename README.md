@@ -16,7 +16,6 @@ Grading Rubric for your Portfolio Site:
 * Hosted on the internet (use GitHub pages for free!) and available at an easy to type domain name (http://username.github.io or a personal domain name).
 * Must be well designed and look professional. Using "themes" from others is ok! No broken links, images, unstyled content, etc...
 * Must (at least) have content one would expect to find on a resume (about, work history, education, interests, etc...)
-* Must have a blog section with at least one post on a technical topic (could be about hosting your site, technologies used, etc...)
 * Must present the site to the rest of the class during the last week
 
 
